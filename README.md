@@ -21,7 +21,7 @@ Be completely anonymous online.
 
 # Encrypted Messaging
 Use encrypted messengers whenever, wherever, and however you can.
-Examples include: Signal, Element, FB Messenger (donates your data, Zuckerberg has supported the RNC), etc.
+Examples include: Signal, Element, FB Messenger (donates your data, do your due-dilligence on the affiliation of business leaders), etc.
 Ensure that if you're using android, to properly lock down the common attack vectors as per our Security-Checklist prior to engaging in any of this, or you could lose your account.
 Facebook has been known to cooperate with authorities - You may view this as a positive or a negative, depending on who's in charge at the time.
 
