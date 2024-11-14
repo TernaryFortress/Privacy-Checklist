@@ -2,6 +2,9 @@
 A freely available toolkit for thwarting and subverting the data-whoring practices of big-tech.
 These guides are intended for people attempting to escape "Hacker Hell", a situation in which all of their tech is 100% compromised.
 
+-----------------------------------------
+
+!! This is a blueprint !! We need more of these !! Written by actual infosec professionals !!
 ## IF YOU HAVE THE RESOURCES: CONTACT A PROFESSIONAL INSTEAD
 ## IF YOU HAVE TRANSPORTATION: SEEK AUTHORITIES INSTEAD
 ## Always remember to do your due-diligence, especially if you are unable to verify the integrity of your internet connection.
