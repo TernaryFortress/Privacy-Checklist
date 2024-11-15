@@ -2,7 +2,7 @@
 A freely available toolkit for thwarting and subverting the data-whoring practices of big-tech.
 These guides are intended for people attempting to escape "Hacker Hell", a situation in which all of their tech is 100% compromised.
 
-I am not a cyber-security professional, just someone who had to tunnel their way out of this hell, and who has realized there's no guide for it. This is just a blueprint.
+I am not a cyber-security professional, just someone who had to tunnel their way out of this hell, and who has realized there's no guide for it. This is just a blueprint and ideally, I would like to see the slack picked up by an actually cyber-security expert.
 
 -----------------------------------------
 
