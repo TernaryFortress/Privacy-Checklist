@@ -16,9 +16,16 @@ I am not a security researcher, this is a blueprint assembled exclusively for, a
 
 # Understanding/Domain Knowledge
 Man-in-the-Middle (MitM) - A tactic in which an adversary attempts place themselves in a position to directly alter your web-traffic.
+
+Stingray - A form of MitM in which an attacker pretends to be a person or node on your network. Examples might include a fake cell tower or router, a compromised software uploader, or any other type of "gatekeeper".
+
 Triangulation - A tactic in which an adversary attempts to learn your IP address so that they can MitM your connection. Telemetry is a common exfiltration vector of this information.
+
 Cross-Site Scripting (XSS) - A tactic in which an adversary attempts to exploit poor sanitation of user content in a web application in order to execute arbitrary code.
+
 Supply-Chain Attack - A tactic in which an adversary attempts to alter the source of data at the point-of-upload. Any downloads of the software will be tainted.
+
+
 
 # Goal:
 Be completely anonymous online.
