@@ -31,12 +31,23 @@ Facebook has been known to cooperate with authorities - You may view this as a p
 
 ## Facebook 
 Facebook sells your data. Here's how to lock down telemetry in the Facebook app:
+```
 1: > "Settings & Privacy" or Gear Icon
-2: > "Privacy checkup"
-3: > 
+2: > Settings & Privacy has a search box, begin typing "Your Activity off Meta Technologies", until you're able to select it as an option.
+3: > Click "Manage Future Activity"
+4: > Select "Disconnect Future Activity" and save.
+5: > You should now see "Your off-Meta activity is currently turned off.", meaning that you're finished here.
+6: > You should now be in accounts center, but if you're not you can use the search menu to fill in the gaps.
+7: > Under "Password & Security", Add a 2-factor authentiction method: A security key is best if you have one, or if you're willing to purchase one. We recommend a thumbprint enabled one for more security.
+8: > Finally, go to "Ad Preferences", and select the "Manage info" tab at the top of the page.
+9: > We want to have zero targeted ads. Go ahead and disable basically everything here. "Categories used to reach you", "Activity information from ad partners", "Ads shown outside of Meta", and "Social Interactions" should all be disabled/turned off to the maximum degree possible.
+10: > Finally, "Audience-based advertising" includes every company that Facebook sells your data to. You should go into each advertiser, and select the "They uploaded or used a list to reach you" box in order to disable their access. For every single company in the list. Yeah, we know, but at least after that you're done.
+```
 
 ## Messenger
 In Facebook Messenger:
+```
 1: > "Settings & Privacy" or Gear Icon
 2: > "Active Status" = Disabled
 3: > "App lock" = Enabled
+```
