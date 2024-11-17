@@ -37,7 +37,7 @@ Ensure that if you're using android, to properly lock down the common attack vec
 Facebook has been known to cooperate with authorities - You may view this as a positive or a negative, depending on who's in charge at the time.
 
 ## Facebook 
-Facebook sells your data. You will likely never be private using messenger, but Here's how to lock down telemetry in the Facebook app (scroll right to see each step's full instruction set):
+Facebook sells your data. You will likely never be private using messenger, but here's how to lock down telemetry in the Facebook app (scroll right to see each step's full instruction set):
 ```
 1: > "Settings & Privacy" or Gear Icon
 2: > Settings & Privacy has a search box, begin typing "Your Activity off Meta Technologies", until you're able to select it as an option.
