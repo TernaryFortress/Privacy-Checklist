@@ -23,7 +23,7 @@ Triangulation - A tactic in which an adversary attempts to learn your IP address
 
 Cross-Site Scripting (XSS) - A tactic in which an adversary attempts to exploit poor sanitation of user content in a web application in order to execute arbitrary code.
 
-Supply-Chain Attack - A tactic in which an adversary attempts to alter the source of data at the point-of-upload. Any downloads of the software will be tainted.
+Supply-Chain Attack - A tactic in which an adversary attempts to alter the software or data at the point-of-upload. Any downloads of the software will be tainted.
 
 
 
