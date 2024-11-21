@@ -62,6 +62,8 @@ OpenBoard and AnysoftKeyboard are both telemetry free, but don't have versions i
 
 Work Profile: https://www.android.com/enterprise/work-profile/
 
+I advise against using the Island app that's in the Play Store, as they collect all your data.
+
 Android has a "demo" work profile that you can configure on your phone. A work profile is like a second account on your phone.
 
 Android 14 gives you a disable button *for the work profile itself*.
