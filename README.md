@@ -1,29 +1,18 @@
 # Privacy-Checklist
-A freely available toolkit for thwarting and subverting the data-whoring practices of big-tech.
-These guides are intended for people attempting to escape "Hacker Hell", a situation in which all of their tech is 100% compromised.
-
-I am not a cyber-security professional, just someone who had to tunnel their way out of this hell, and who has realized there's no guide for it. This is just a blueprint and ideally, I would like to see the slack picked up by an actual cyber-security expert.
+I am not a cyber-security professional, just someone who has had all the data gather and sold by big-tech weaponized against them, and who has realized there's no guide for extricating one's self from telemetry hell.
 
 -----------------------------------------
-
-## IF YOU HAVE THE RESOURCES: CONTACT A PROFESSIONAL INSTEAD
-## IF YOU HAVE TRANSPORTATION: SEEK AUTHORITIES INSTEAD
-## Always remember to do your due-diligence, especially if you are unable to verify the integrity of your internet connection.
-
-One should lock down their devices as-per the "https://github.com/TernaryFortress/Security-Checklist" repository prior to taking these steps.
-
-I am not a security researcher, this is a blueprint assembled exclusively for, and detailing what is required to escape the aforementioned situation and establish contact with the outside world, in order to escape oppression and cyber-abuse. Other guides will provide more extensive and complete guidance, along with all the information-overload that such guidance entails.
 
 # Understanding/Domain Knowledge
 Man-in-the-Middle (MitM) - A tactic in which an adversary attempts place themselves in a position to directly alter your web-traffic.
 
-Stingray - A form of MitM in which an attacker pretends to be a person or node on your network. Examples might include a fake cell tower or router, a compromised software uploader, or any other type of "gatekeeper".
+Stingray - A form of MitM in which an attacker pretends to be a person or node on your network. Examples might include a fake cell tower, a lawfully wire-tapped router or ISP server, a compromised software uploader, or any other type of "gatekeeper" that stands between you and the internet.
 
-Triangulation - A tactic in which an adversary attempts to learn your IP address so that they can MitM your connection. Telemetry is a common exfiltration vector of this information.
+Triangulation - A tactic in which an adversary attempts to learn your exact IP address or location, so that they can target you.
 
 Cross-Site Scripting (XSS) - A tactic in which an adversary attempts to exploit poor sanitation of user content in a web application in order to execute arbitrary code.
 
-Supply-Chain Attack - A tactic in which an adversary attempts to alter the software or data at the point-of-upload. Any downloads of the software will be tainted.
+Supply-Chain Attack - A tactic in which an adversary attempts to alter the software or data at the point-of-upload. Any downloads of the software will be tainted, with no recourse.
 
 
 
