@@ -21,3 +21,8 @@ In Facebook Messenger:
 2: > "Active Status" = Disabled
 3: > "App lock" = Enabled
 ```
+
+## Additional Maintenance - Thwarting the Botnets - All Platforms
+If you see posts on social feeds or in your communities that appear too personal, be sure to use the platform's tools to remove them from your feed and vote down the behavior.
+If you see users that appear too personal, block them, unsubscribe from their pages, etc.
+If you observe behavior that seems to be attempting to manipulate how you think or what you think, block the user, vote down the behavior, etc.
