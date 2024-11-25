@@ -25,4 +25,4 @@ Ensure that if you're using android, to properly lock down the common attack vec
 # Thwarting Stingrays
 Using Walled Gardens (Google Play Store, Microsoft Store, Snap for Linux, Apple Store, etc) is usually a safe way to download legitimate software without fear of interception, protecting from everything except Supply-Chain Attacks.
 Diffie-Helmann Key Exchange (For example, using the Wireguard VPN protocol) can bypass stringrays, so long as the plaintext keys are protected during the initial transport.
-Note: Be aware that practically any encryption protocol will likely be broken or exploited eventually, given enough time.
+Note: Be sure to upgrade your phones, computers, and router firmware using known-safe connections whenever able, as Wireguard protocols from before 2024 are not secure.
