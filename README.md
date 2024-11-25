@@ -1,5 +1,5 @@
 # Privacy-Checklist
-I am not a cyber-security professional, just someone who has had all the data gather and sold by big-tech weaponized against them, and who has realized there's no guide for extricating one's self from telemetry hell.
+I am not a cyber-security professional, just someone who has had all the data gathered and sold by big-tech weaponized against them, and who has realized there's no guide for extricating one's self from telemetry hell.
 
 -----------------------------------------
 
