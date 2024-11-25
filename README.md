@@ -19,10 +19,14 @@ Be completely anonymous online.
 
 # Encrypted Messaging
 Use encrypted messengers whenever, wherever, and however you can.
+
 Examples include: Signal, Element, etc.
+
 Ensure that if you're using android, to properly lock down the common attack vectors as per our Security-Checklist prior to engaging in any of this, or you could lose your account.
 
 # Thwarting Stingrays
 Using Walled Gardens (Google Play Store, Microsoft Store, Snap for Linux, Apple Store, etc) is usually a safe way to download legitimate software without fear of interception, protecting from everything except Supply-Chain Attacks.
+
 Diffie-Helmann Key Exchange (For example, using the Wireguard VPN protocol) can bypass stringrays, so long as the plaintext keys are protected during the initial transport.
+
 Note: Be sure to upgrade your phones, computers, and router firmware using known-safe connections whenever able, as Wireguard protocols from before 2024 are not secure.
