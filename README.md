@@ -32,3 +32,6 @@ Diffie-Helmann Key Exchange (For example, using the Wireguard VPN protocol) can 
 Proton VPN and Cloudflare Warp/Cloudflare One Agent are all Wireguard based. Android appears to have backdoors through Cloudflare One currently.
 
 Note: Be sure to upgrade your phones, computers, and router firmware using known-safe connections whenever able, as Wireguard protocols from before 2024 are not secure.
+
+# Cross-Site Scripting (XSS)
+If a website or application is vulnerable to cross-site scripting at the same time that an attacker is able to identify you as a unique user to that site, you may want to just find another website to serve your needs.
