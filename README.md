@@ -34,4 +34,4 @@ Proton VPN and Cloudflare Warp/Cloudflare One Agent are all Wireguard based. And
 Note: Be sure to upgrade your phones, computers, and router firmware using known-safe connections whenever able, as Wireguard protocols from before 2024 are not secure.
 
 # Cross-Site Scripting (XSS)
-If a website or application is vulnerable to cross-site scripting at the same time that an attacker is able to identify you as a unique user to that site, you may want to just find another website to serve your needs.
+If a website or application is vulnerable to cross-site scripting at the same time that an attacker is able to identify you as a unique user to that site, this is functionally a Supply-Chain-Attack on its own, and you may want to just find another website to serve your needs.
