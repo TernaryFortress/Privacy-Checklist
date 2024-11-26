@@ -1,3 +1,5 @@
+# Web Browsers - Your portal to the internet.
+
 I've yet to figure out how to make Chrome telemetry free.
 
 I have not yet had a chance to play around with Safari or other Apple browsers.
