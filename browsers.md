@@ -262,4 +262,5 @@ browser.safebrowsing.enabled: false
 media.getusermedia.audiocapture.enabled: false
 
 media.gmp-gmpopenh264.enabled: false
+
 webgl.disabled: true
