@@ -10,7 +10,7 @@ Stingray - A form of MitM in which an attacker pretends to be a person or node o
 
 Triangulation - A tactic in which an adversary attempts to learn your exact IP address or location, so that they can target you.
 
-Cross-Site Scripting (XSS) - A tactic in which an adversary attempts to exploit poor sanitation of user content in a web application in order to execute arbitrary code.
+Cross-Site Scripting (XSS) - A tactic in which an adversary attempts to exploit poor sanitation of user content or loose scripting permissions in a web application in order to execute arbitrary code.
 
 Supply-Chain Attack - A tactic in which an adversary attempts to alter the software or data at the point-of-upload. Any downloads of the software will be tainted, with no recourse.
 
