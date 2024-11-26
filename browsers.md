@@ -6,6 +6,8 @@ Startpage offers their Chromium-based browser, which is allegedly tracker free.
 
 Alternatively, if you use Firefox, you can enter "about:config" in the toolbar, accept the warning, and change the settings below in order to shut off telemetry and other triangulation-friendly services.
 
+TOR is built on the Firefox browser, and has the same permissions. TOR is centered around the concept of making all users appear identical, however it is also much slower.
+
 There is an automatic way to do this on desktop computers, using a user.js file. We'll include that momentarily.
 
 Until then, here's the list of advanced settings. If a setting doesn't exist on your platform, that's fine too. You don't need to add it manually unless you're paranoid (we won't judge):
