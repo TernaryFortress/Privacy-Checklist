@@ -26,4 +26,4 @@ In Facebook Messenger:
 If you see anything on social feeds or in your communities that appear too personal, be sure to use the platform's tools to remove them from your feed, vote down the behavior, or contact a moderator.
 Never forget that you can block and mute users.
 
-But also, social media is kinda just fucked. Let's go touch some grass or something instead.
+But also, social media is kinda just fucked at this point. Let's go touch some grass or something instead.
