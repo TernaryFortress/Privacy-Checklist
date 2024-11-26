@@ -10,6 +10,8 @@ There is an automatic way to do this on desktop computers, using a user.js file.
 
 Until then, here's the list of advanced settings. If a setting doesn't exist on your platform, that's fine too. You don't need to add it manually unless you're paranoid (we won't judge):
 
+"" is a blank string, it means to leave the line empty
+
 -------------------------------------------------------
 
 beacon.enabled: false
