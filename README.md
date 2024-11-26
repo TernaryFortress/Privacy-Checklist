@@ -29,4 +29,6 @@ Using Walled Gardens (Google Play Store, Microsoft Store, Snap for Linux, Apple 
 
 Diffie-Helmann Key Exchange (For example, using the Wireguard VPN protocol) can bypass stringrays, so long as the plaintext keys are protected during the initial transport.
 
+Proton VPN and Cloudflare Warp/Cloudflare One Agent are all Wireguard based. Android appears to have backdoors through Cloudflare One currently.
+
 Note: Be sure to upgrade your phones, computers, and router firmware using known-safe connections whenever able, as Wireguard protocols from before 2024 are not secure.
