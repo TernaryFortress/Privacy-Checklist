@@ -2,7 +2,7 @@
 
 I've yet to figure out how to make Chrome telemetry free.
 
-I have not yet had a chance to play around with Safari or other Apple browsers.
+I have not yet had a chance to play around with Safari or other Apple browsers, but Apple is generally much more privacy friendly than Google.
 
 Startpage offers their Chromium-based browser, which is allegedly tracker free.
 
@@ -13,6 +13,14 @@ TOR is built on the Firefox browser, and has the same permissions. TOR is center
 There is an automatic way to do this on desktop computers, using a user.js file. We'll include that momentarily.
 
 Until then, here's the list of advanced settings. If a setting doesn't exist on your platform, that's fine too. You don't need to add it manually unless you're paranoid (we won't judge):
+
+# Firefox addons
+
+Noscript: This one can prevent Cross-Site Scripting (XSS) attacks by simply blocking the javascript from unnecessary domains. The downside is that you need to whitelist every page you visit.
+
+Ublock Origin: This addon blocks ads that load in-page, which can also be common ways for bad actors to acquire your IP Address.
+
+# Firefox about:config policies
 
 "" is a blank string, it means to delete the line and then leave it empty
 
