@@ -23,6 +23,7 @@ In Facebook Messenger:
 ```
 
 ## Additional Maintenance - Thwarting the Botnets - All Platforms
-If you see posts on social feeds or in your communities that appear too personal, be sure to use the platform's tools to remove them from your feed and vote down the behavior.
-If you see users that appear too personal, block them, unsubscribe from their pages, etc.
-If you observe behavior that seems to be attempting to manipulate how you think or what you think, block the user, vote down the behavior, etc.
+If you see anything on social feeds or in your communities that appear too personal, be sure to use the platform's tools to remove them from your feed, vote down the behavior, or contact a moderator.
+Never forget that you can block and mute users.
+
+But also, social media is kinda just fucked. Let's go touch some grass or something instead.
