@@ -64,7 +64,7 @@ You can set up a work profile, though I'm still searching for one that is both m
 
 If you want to play around, android has a demo available: https://www.android.com/enterprise/work-profile/
 
-In the demo, you can't use the real Play Store, but you can still log in to your google account and install applications to the work profile using --user 10.
+In the demo, you can't use the real Play Store, but you can still log in to your google account and install applications to the work profile using adb by adding the --user 10 parameter to the install command.
 
 I advise against using the Island app that's in the Play Store, as they collect all your data.
 
