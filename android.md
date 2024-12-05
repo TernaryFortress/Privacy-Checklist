@@ -60,15 +60,13 @@ OpenBoard and AnysoftKeyboard are both telemetry free, but don't have versions i
 
 ## This sucks and nothing functions anymore. How do I configure an android phone so that I can still do everything that I did before?
 
-You can set up a work profile, though I'm still searching for one that is both monetarily free AND telemetry free.
+You can set up a work profile, though I'm still searching for one that is both monetarily free AND telemetry free. We will withold recommendations until we have thoroughly tested things.
 
 If you want to play around, android has a demo available: https://www.android.com/enterprise/work-profile/
 
 In the demo, you can't use the real Play Store, but you can still log in to your google account and install applications to the work profile using adb by adding the --user 10 parameter to the install command.
 
 I advise against using the Island app that's in the Play Store, as they collect all your data.
-
-Android has a "demo" work profile that you can configure on your phone. A work profile is like a second account on your phone.
 
 Android 14 gives you a disable button *for the work profile itself*.
 
