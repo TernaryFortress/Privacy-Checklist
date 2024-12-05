@@ -4,7 +4,7 @@ I am not a cyber-security professional, just someone who has had all the data ga
 -----------------------------------------
 
 # Understanding/Domain Knowledge
-**Man-in-the-Middle (MitM)** - A tactic in which an adversary attempts place themselves in a position to directly alter your web-traffic.
+**Man-in-the-Middle (MitM)** - A tactic in which an adversary attempts to place themselves between you and your destination, so that they can spy on or directly alter your web-traffic.
 
 **Stingray** - A form of MitM in which an attacker pretends to be a person or node on your network. Examples might include a fake cell tower, a lawfully wire-tapped router or ISP server, a compromised software uploader, or any other type of "gatekeeper" that stands between you and the internet.
 
