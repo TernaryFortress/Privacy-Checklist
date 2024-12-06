@@ -60,18 +60,12 @@ OpenBoard and AnysoftKeyboard are both telemetry free, but don't have versions i
 
 ## This sucks and nothing functions anymore. How do I configure an android phone so that I can still do everything that I did before?
 
-You can set up a work profile, though I'm still searching for one that is both monetarily free AND telemetry free. We will withold recommendations until we have thoroughly tested things.
+You can set up a work profile, and Android 14 gives you a disable button *for the work profile itself*.
 
-If you want to play around, android has a demo available: https://www.android.com/enterprise/work-profile/
+This means you can disable Google Play Services on your main profile (Google Store doesn't run in the background with "Don't Keep Activities" on, and seems to need to be active in both profiles to work properly), and then log into Google and install all your normal applications in the work profile.
 
-In the demo, you can't use the real Play Store, but you can still log in to your google account and install applications to the work profile using adb by adding the --user 10 parameter to the install command.
+Whenever you need to be private, simply disable the work profile, jump to airplane mode, and you're invisible.
 
-I advise against using the Island app that's in the Play Store, as they collect all your data.
+After some testing, I'm going to recommend Shelter: https://f-droid.org/en/packages/net.typeblog.shelter/ (Be sure to click "Download APK" and not "Download F-Droid"). At the time of writing, the most recent version was 1.9.1
 
-Android 14 gives you a disable button *for the work profile itself*.
-
-If you install the work profile, and then disable Google Play Services and Google Play Store on the normal profile, you can use the work profile to download and play games from the store, chat on social media, etc, and then *fully disable all of it* with the press of a single button.
-
-Then everything in the base profile is (generally) safe from tampering, and you can keep all your important stuff there.
-
-This is the best solution that I have found so far.
+Island collects telemetry data, which defeats the entire point of having a privacy-focused work profile. The Enterprise demo activates the location service at random intervals. This is the best free solution I was able to find.
