@@ -24,7 +24,7 @@ Use encrypted messengers whenever, wherever, and however you can.
 
 Examples include: Signal, Element, etc.
 
-Ensure that if you're using android, to properly lock down the common attack vectors as per our Security-Checklist prior to engaging in any of this, or you could lose your account.
+Ensure that *if* you're using android, to properly lock down the common attack vectors as per our Security-Checklist prior to engaging in any of this, or you could lose your account.
 
 # Thwarting Stingrays
 Using Walled Gardens (Google Play Store, Microsoft Store, Snap for Linux, Apple Store, etc) is usually a safe way to download legitimate software without fear of interception, protecting from everything except Supply-Chain Attacks.
