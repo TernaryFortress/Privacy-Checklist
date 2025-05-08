@@ -14,7 +14,7 @@ I am not a cyber-security professional, just someone who has had all the data ga
 
 **Supply-Chain Attack** - A tactic in which an adversary attempts to alter the software or data at the point-of-upload. Any downloads of the software will be tainted, with no recourse.
 
-**AI Wargame** - An AI model that's been optimized for human manipulation or social engineering. Tame implementations might involve wasting people's time. More sinister ones might attempt "divide and conquer" techniques.
+**AI Wargame** - An AI model that's been optimized for human manipulation or social engineering. Tame implementations might involve wasting people's time. More sinister ones might attempt to infect your devices, or employ "divide and conquer" tactics.
 
 # Goal:
 Be completely anonymous online.
