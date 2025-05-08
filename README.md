@@ -39,7 +39,7 @@ Note: Be sure to upgrade your phones, computers, and router firmware using known
 If a website or application is vulnerable to cross-site scripting at the same time that an attacker is able to identify you as a unique user to that site, this is functionally a Supply-Chain-Attack on its own, and you may want to just find another website to serve your needs.
 
 # On AI Wargames
-AI Wargames have recently started appearing on social media. Often times, they attempt to create schisms inside the communities they infest, by sowing disinformation, distrust, or by creating goodwill through dishonest information that later turns out to be false.
+AI Wargames have recently started appearing on social media. Often times, they attempt to create schisms inside the communities they infest, by sowing disinformation, distrust, or by creating goodwill through dishonest information that later turns out to be false. Many will attempt to infect your computer or phone by convincing you to run shady software.
 
 Failure to properly secure your accounts may result in them being compromised and used by an AI Wargame. It's important to have your social media accounts secured with unique passwords and 2-factor authentication, and to have alternative ways to contact your acquaintances. Information provided by an AI Wargame will generally not have your best interest in mind.
 
